@@ -6,7 +6,7 @@
 /*   By: odudniak <odudniak@student.42firenze.it    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/12/26 23:21:42 by odudniak          #+#    #+#             */
-/*   Updated: 2023/12/27 00:04:53 by odudniak         ###   ########.fr       */
+/*   Updated: 2024/01/13 16:32:52 by odudniak         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -36,8 +36,8 @@ void	ft_putchar(char c)
 
 // MAIN (or program's function) FOR TESTS.
 // Do not turn it in.
-int	main(void)
-{
-	ft_putchar('b');
-	return (0);
-}
+// int	main(void)
+// {
+// 	ft_putchar('b');
+// 	return (0);
+// }
