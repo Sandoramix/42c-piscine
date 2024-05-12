@@ -6,7 +6,7 @@
 /*   By: odudniak <odudniak@student.42firenze.it    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/12/27 00:05:13 by odudniak          #+#    #+#             */
-/*   Updated: 2023/12/27 00:38:27 by odudniak         ###   ########.fr       */
+/*   Updated: 2024/05/12 11:07:48 by odudniak         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,7 +15,7 @@
 /**
  * @brief This function will print every character of the alphabet on a single
  * line.
- * There's no paramether needed to call this function so we explicitly have to
+ * There's no parameter needed to call this function so we explicitly have to
  * declare that we ignore anything that have been passed onto it.
  */
 

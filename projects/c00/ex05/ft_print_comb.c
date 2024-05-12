@@ -6,7 +6,7 @@
 /*   By: odudniak <odudniak@student.42firenze.it    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/01/13 16:13:32 by odudniak          #+#    #+#             */
-/*   Updated: 2024/01/13 16:31:54 by odudniak         ###   ########.fr       */
+/*   Updated: 2024/05/12 11:08:52 by odudniak         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -53,7 +53,7 @@ void	ft_print_comb(void)
 }
 
 /**
- * @brief Refactor: all in 1 function
+ * Refactor: all in 1 function
  *
  */
 /* void	ft_print_comb(void)
