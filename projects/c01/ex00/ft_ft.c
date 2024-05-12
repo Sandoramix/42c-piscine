@@ -6,7 +6,7 @@
 /*   By: odudniak <odudniak@student.42firenze.it    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/05/12 12:07:28 by odudniak          #+#    #+#             */
-/*   Updated: 2024/05/12 14:01:32 by odudniak         ###   ########.fr       */
+/*   Updated: 2024/05/12 14:26:50 by odudniak         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -77,3 +77,15 @@ void	ft_ft(int *nbr)
 {
 	*nbr = 42;
 }
+
+//#include <stdio.h>
+//int	main(void)
+//{
+//	int	a;
+
+//	a = -42;
+//	printf("A before the ft_ft() call: %d\n", a);
+//	ft_ft(&a);
+//	printf("A after the ft_ft() call: %d\n", a);
+//	return (0);
+//}
